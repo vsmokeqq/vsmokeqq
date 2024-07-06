@@ -1,0 +1,6 @@
+Star Wars	1977	124	color	1	Portos	Fox
+Wayne’s World	1992	95	color	3	Dana Carvey	Paramount
+Mighty Ducks	1991	104	color	2	Emilio Estevez	Disney
+Wayne’s World	1992	95	color	3	Dana Carvey	Paramount
+Star Wars	1977	124	color	1	Atos	Fox
+Star Wars	1977	124	color	1	Aramis	Fox
